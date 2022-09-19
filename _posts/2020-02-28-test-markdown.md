@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+Título: Ejemplo de un post en el blog
+subtitle: Cada post tiene un subtitulo
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -16,15 +16,15 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 Here's a useless table:
 
-| Number | Next number | Previous number |
+| Número | Siguente número | Número anterior |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Cinco | Seis | Cuatro |
+| Diez | Once | Nueve |
+| Siete | Ocho | Seis |
+| Dos | Tres | Uno |
 
 
-How about a yummy crepe?
+Una crepe?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
@@ -32,7 +32,7 @@ It can also be centered!
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
+Aqui tienes codigo:
 
 ~~~
 var foo = function(x) {
