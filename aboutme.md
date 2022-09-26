@@ -13,7 +13,7 @@ My nombre es Jaime Pastor. Aqui van unos cuantos datos sobre mi:
 
 <div>
 <p style = 'text-aling:center;'>
-<img src = "https://i.pinimg.com/originals/bb/9b/7d/bb9b7d5bbf709ee31190bdf2e66786b3.gif"> 
+<p>    </p> <img src = "https://i.pinimg.com/originals/bb/9b/7d/bb9b7d5bbf709ee31190bdf2e66786b3.gif"> 
 </p>
 </div>
 (Whiplash, pelicula muy recomendable)
