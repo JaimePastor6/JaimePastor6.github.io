@@ -4,10 +4,20 @@ title: Sobre mi
 subtitle: Why you'd want to go on a date with me
 ---
 
-My nombre es Jaime Pastor. Estas son mis cualidades:
+My nombre es Jaime Pastor. Aqui van unos cuantos datos sobre mi:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Tengo 25 años.
+- Soy de Madrid.
+- Estuve viviendo 8 años en Bruselas, asi que el frances digamos que se me da bien.
+- Me gusta bastante la musica, tocaba la bateria todas las semanas durante dos años.
+
+<div>
+<p style = 'text-aling:center;'>
+<img src = "https://i.pinimg.com/originals/bb/9b/7d/bb9b7d5bbf709ee31190bdf2e66786b3.gif"> 
+</p>
+</div>
+- Tambien hago SnowBoard siemmpre que puedo, si, me gustan los hobbies baratos...
+
 
 Que mas necesitas?
 
