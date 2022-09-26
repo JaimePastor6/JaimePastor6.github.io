@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre mi
-subtitle: Why you'd want to go on a date with me
+subtitle: Si te intereso algo, podrias leer esto.
 ---
 
 My nombre es Jaime Pastor. Aqui van unos cuantos datos sobre mi:
@@ -18,7 +18,7 @@ My nombre es Jaime Pastor. Aqui van unos cuantos datos sobre mi:
 </div>
 (Whiplash, pelicula muy recomendable)
 
-- Tambien hago SnowBoard siemmpre que puedo, si, me gustan los hobbies baratos...
+- Tambien hago SnowBoard siempre que puedo, sí, me gustan los hobbies baratos...
 
 
 Que mas necesitas?
