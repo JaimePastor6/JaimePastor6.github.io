@@ -9,6 +9,7 @@ My nombre es Jaime Pastor. Aqui van unos cuantos datos sobre mi:
 - Tengo 25 años.
 - Soy de Madrid.
 - Estuve viviendo 8 años en Bruselas, asi que el frances digamos que se me da bien.
+- Aparte de DAW tambien estudié iluminación, captación y tratamiento de la imagen.
 - Me gusta bastante la musica, tocaba la bateria todas las semanas durante dos años.
 
 ![Imagen de Whiplash](https://i.pinimg.com/originals/bb/9b/7d/bb9b7d5bbf709ee31190bdf2e66786b3.gif)
