@@ -28,6 +28,6 @@ My nombre es Jaime Pastor. Aqui van unos cuantos datos sobre mi:
 
 - Una vez desde dentro del repositorio nos vamos a **Settings**, **pages**, y en  Branch seleccionamos **Master** y **/(root)**.
 
-- Para poder visitar tu página, solo tienes que llamar al repositorio **username.github.io** en mi caso es [jaimepastor6.github.io] (https://github.com/JaimePastor6/JaimePastor6.github.io) y ya podriamos utilizar ese mismo nombre como enlace para la web. [https://jaimepastor6.github.io/] (https://jaimepastor6.github.io/).
+- Para poder visitar tu página, solo tienes que llamar al repositorio **username.github.io** en mi caso es [jaimepastor6.github.io](https://github.com/JaimePastor6/JaimePastor6.github.io) y ya podriamos utilizar ese mismo nombre como enlace para la web. [https://jaimepastor6.github.io/](https://jaimepastor6.github.io/).
 
 - Con todo esto listo podemos modificar **_config.yml** a nuestro gusto para cambiar la página. Y cambiar los .md para modificar los contenidos de cada parte de esta pagina, como en este caso que estamos modificando el **aboutme.md**.
